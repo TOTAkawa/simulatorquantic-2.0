@@ -34,7 +34,7 @@ wasm-pack build --target web --out-dir ../frontend/src/lib/pkg
 
 ### 2. Run the Backend API
 ```bash
-cd ..
+cd simulatorquantic/src/main.rs
 # Ensure you are in the folder containing main.rs
 cargo run
 ```
